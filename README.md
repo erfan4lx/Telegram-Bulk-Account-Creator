@@ -1,5 +1,5 @@
 # Telegram-Bulk-Account-Creator
-Create any number of Telegram accounts and sessions fully automated
+Create any number of Telegram accounts and sessions fully automated working with API of sms-activate.ru website
 
 Contact with me to get the Password of Zip file on :
 
