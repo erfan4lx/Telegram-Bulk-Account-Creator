@@ -1,4 +1,7 @@
 # Telegram-Bulk-Account-Creator
+LATEST VERSION : https://github.com/erfan4lx/Automatic-Telegram-Accounts-Creator/
+
+
 Create any number of Telegram accounts and sessions fully automated working with API of sms-activate.ru website
 
 MY OFFICIAL WEBSITE : https://erfan4lx.com
